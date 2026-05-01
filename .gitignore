@@ -1,0 +1,7 @@
+__pycache__/
+*.pth
+*.pkl
+*.json
+datasets/
+deepfake_audio/
+real_audio/
